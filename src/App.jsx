@@ -1,9 +1,9 @@
 
 import Header from './components/header';
 import Footer from './components/footer';
-import About from './components/About';
+import About from './components/about';
 import Donation from './components/donation';
-import Contact from './components/Contact';
+import Contact from './components/contact';
 import Carousel from './components/carousel';
 import Team from './components/team';
 
