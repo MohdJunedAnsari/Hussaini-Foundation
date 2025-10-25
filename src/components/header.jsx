@@ -13,7 +13,7 @@ const Header = () => {
       {/* Logo */}
       <div className="w-[70px]">
         <a href="#home">
-          <img src="./img1.png" className="rounded-2xl" alt="logo" />
+          <img src="/img1.png" className="rounded-2xl" alt="logo" />
         </a>
       </div>
 

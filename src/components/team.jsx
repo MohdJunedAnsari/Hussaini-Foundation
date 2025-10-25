@@ -4,25 +4,25 @@ const teamMembers = [
   {
     name: 'Ali Hussain',
     role: 'Founder & Director',
-    image: './img1.png',
+    image: '/img1.png',
     bio: 'Visionary leader dedicated to empowering the community through compassion and service.',
   },
   {
     name: 'Fatima Zahra',
     role: 'Community Manager',
-    image: './img1.png',
+    image: '/img1.png',
     bio: 'Leads our outreach and social campaigns with empathy and strong organizational skills.',
   },
   {
     name: 'Imran Sheikh',
     role: 'Fundraising Lead',
-    image: './img1.png',
+    image: '/img1.png',
     bio: 'Passionate about connecting generous donors with impactful causes.',
   },
   {
     name: 'Amina Rizvi',
     role: 'Operations Coordinator',
-    image: './img1.png',
+    image: '/img1.png',
     bio: 'Ensures smooth coordination of our daily humanitarian operations.',
   },
 ];

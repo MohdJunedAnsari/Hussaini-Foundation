@@ -15,7 +15,7 @@ const About = () => {
         {/* Image + Text Section */}
         <div className="lg:flex lg:items-center lg:space-x-10">
           <img
-            src="./img1.png"
+            src="/img1.png"
             alt="Our Team"
             className="w-full lg:w-1/2 rounded-xl shadow-md mb-8 lg:mb-0"
           />
